@@ -2,11 +2,11 @@
 
 El equipo ganador se llevará una ronda de cubatas en Teatro Barceló, allá por 2025
 
-![alt text](./imgfile/tenor.gif)
+![alt text](./imgfile_daniel/tenor.gif)
 
 ## Instrucciones
 
-![alt text](./imgfile/meme_git.jpeg)
+![alt text](./imgfile_daniel/meme_git.jpeg)
 
 1. Colocate sobre tu rama
 2. Crear nombreequipo.txt
@@ -15,7 +15,7 @@ El equipo ganador se llevará una ronda de cubatas en Teatro Barceló, allá por
 5. Crear una PR poniendo a Daniel (danieltttech) y Enrique como reviewers (enriquetttech)
 6. Si esta todo correcto habréis acabado el ejercicio 
 
-![alt text](./imgfile/gitexpert.jpg)
+![alt text](./imgfile_daniel/gitexpert.jpg)
 
 Se ponderara la velocidad de acabar el ejercicio como la originalidad de las frases
 
