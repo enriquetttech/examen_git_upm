@@ -19,16 +19,12 @@ El equipo ganador se llevará una ronda de cubatas en Teatro Barceló, allá por
 
 Se ponderara la velocidad de acabar el ejercicio como la originalidad de las frases
 
-
-
-
-
-
-
-
-
-
-
-
+--
+--
+--
+--
+--
+--
+--
 
 Si quiere que su equipo sea ganador echa un ojo al .gitignore
